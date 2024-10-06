@@ -2,15 +2,14 @@
 
 #BGA24/sessions #GitPod #Tools #Kmers
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/smudgeplot) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/smudgeplot) 
 
 ## Session Leader(s)
 
-Kamil S. Jaron; Amjad Khalaf
-
-Tree of Life, Wellcome Sanger Institute
+Noah Gettle
+Ksenia Krasheninnikova
 
 ## Description
 
